@@ -1,0 +1,7 @@
+{
+  "name": "@rivergate/amberline-aces-kit",
+  "version": "1.4.0",
+  "description": "Official Amberline Aces design kit",
+  "files": ["palette", "assets", "docs"],
+  "license": "CC-BY-NC-4.0"
+}
