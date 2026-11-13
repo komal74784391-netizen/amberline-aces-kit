@@ -1,0 +1,14 @@
+{
+  "name": "Amberline Aces",
+  "version": "1.4.0",
+  "colors": {
+    "navy": {"hex": "#1b3a6b", "rgb": [27, 58, 107], "usage": "primary"},
+    "steel": {"hex": "#5d7fa3", "rgb": [93, 127, 163], "usage": "secondary"},
+    "ice": {"hex": "#e8eef5", "rgb": [232, 238, 245], "usage": "background"},
+    "signal": {"hex": "#d94f2b", "rgb": [217, 79, 43], "usage": "accent"}
+  },
+  "typography": {
+    "display": "Oswald",
+    "body": "Source Sans 3"
+  }
+}
